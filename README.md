@@ -58,7 +58,7 @@ and click on Installer Images.</b></p>
 
 ![Screenshot 2024-11-13 at 21 33 25](https://github.com/user-attachments/assets/83d3a1a7-0188-4684-a204-ea6ac22f1b7c)
 
-<p align="center"> <b> Then I createe a virtual hard disk and then hit next.</b></p>
+<p align="center"> <b> Then I created a virtual hard disk and then hit next.</b></p>
 
 ![Screenshot 2024-11-13 at 21 49 07](https://github.com/user-attachments/assets/7bd7991c-bb29-4e3a-8723-cf2e97c27777)
 
@@ -75,7 +75,7 @@ and click on Installer Images.</b></p>
 
 ![Screenshot 2024-11-15 at 15 24 32](https://github.com/user-attachments/assets/d16cb66c-3f06-4f5f-9fe1-496d97cd4778)
 
-<p align="center"> <b> I then finshed setting up Kali Linux. Make sure that you select the language you are most comfortable working in and then click Continue. Next, I selected location, click Continue once again, and then select the keyboard layout. VirtualBox will then go through a process of detecting your hardware and network adapters. Just wait patiently as it does so. Eventually, I will be greeted by a screen asking you to configure your network, I left mine as kali but you can name it whatever you wish and hit Continue.</b></p>
+<p align="center"> <b> I then finished setting up Kali Linux. Make sure that you select the language you are most comfortable working in and then click Continue. Next, I selected location, clicked Continue once again, and then selected the keyboard layout. VirtualBox will then go through a process of detecting your hardware and network adapters. Just wait patiently as it does so. Eventually, I was greeted by a screen asking me to configure your network, I left mine as kali but you can name it whatever you wish and hit Continue.</b></p>
 
 ![Screenshot 2024-11-15 at 15 28 24](https://github.com/user-attachments/assets/64ccabfb-9c68-4a4b-81e1-21cf872e4a8f)
 
