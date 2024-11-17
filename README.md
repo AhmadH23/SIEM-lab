@@ -142,7 +142,7 @@ Elastic Cloud
 
 ![Screenshot 2024-11-16 at 15 26 27](https://github.com/user-attachments/assets/84974b8b-58ba-4446-bf53-91b2331e4289)
 
-<p align="center"> <b> I will then be taken to the following page, at the botom it will say Install Elastic Agent, click on it.</b></p>
+<p align="center"> <b> I will then be taken to the following page, at the bottom it will say Install Elastic Agent, click on it.</b></p>
 
 ![Screenshot 2024-11-16 at 15 29 04](https://github.com/user-attachments/assets/262cf421-1ff6-48f4-8a18-ca392fb78651)
 
