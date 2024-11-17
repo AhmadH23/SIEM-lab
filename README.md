@@ -201,13 +201,13 @@ Elastic Cloud
 
 <p align="center"> <b> On the top right corner I clicked on Save and return which then brings me to the next step. I will create an alert, alerts are created based on predefined rules or custom queries, and can be configured to trigger specific actions when certain conditions are met. I will go through the steps of creating an alert in the Elastic SIEM instance to detect Nmap scans.</b></p>
 
-<p align="center"> <b> Using the same hamburger icon I used to navigate to create a dashboard, in that navigation section under Security there will be a section labeled Alerts, click on that which will take me to the following page:</b></p>
+<p align="center"> <b> Using the same hamburger icon I used to navigate to create a dashboard, in that navigation section under Security there will be a section labelled Alerts, click on that which will take me to the following page:</b></p>
 
 
 ![Screenshot 2024-11-17 at 13 44 24](https://github.com/user-attachments/assets/2d989397-4804-4aee-98a5-8c72526cd862)
 
 
-<p align="center"> <b> On the top right there is a blue button labeled Manage rules, after clicking on that it will take me to the following page in which I will click on Create new rule button on the top right corner:</b></p>
+<p align="center"> <b> On the top right there is a blue button labelled Manage rules, after clicking on that it will take me to the following page in which I will click on Create new rule button on the top right corner:</b></p>
 
 ![Screenshot 2024-11-17 at 13 45 48](https://github.com/user-attachments/assets/f8c2be22-3e9c-4b81-89d3-d9624d492680)
 
