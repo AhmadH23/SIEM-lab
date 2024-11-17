@@ -29,7 +29,7 @@ Program Walk-through
  
 ![Screenshot 2024-11-11 at 22 10 34](https://github.com/user-attachments/assets/2bfeda9e-ddb2-45f9-8f29-292af46f1ffa)
 
-<p align="center"><b> Once downloaded, install it and run the application, once opened it will look like this</b></p>
+<p align="center"><b> Once downloaded, install it and run the application, once opened it will look like this:</b></p>
 
 ![virtualbox-main-empty](https://github.com/user-attachments/assets/5606b1e2-9fd8-4755-891a-e8143365ef5e)
 
@@ -41,7 +41,7 @@ and click on Installer Images.</b></p>
 
 ![Screenshot 2024-11-12 at 22 25 33](https://github.com/user-attachments/assets/3ab97ccb-674b-4028-86c4-70f24af64f20)
 
-<p align="center"><b>It took take me to this page, I selected the appropriate install based on my operating system</b></p>
+<p align="center"><b>It took take me to this page, I selected the appropriate install based on my operating system.</b></p>
 
 ![Screenshot 2024-11-12 at 22 30 01](https://github.com/user-attachments/assets/12062e15-54cf-4b60-a31d-4ff061d0934e)
 
@@ -65,7 +65,7 @@ and click on Installer Images.</b></p>
 ![Screenshot 2024-11-13 at 21 49 07](https://github.com/user-attachments/assets/7bd7991c-bb29-4e3a-8723-cf2e97c27777)
 
 
-<p align="center"> <b> Once I have done that I will hit finish </b></p>
+<p align="center"> <b> Once I have done that I will hit finish. </b></p>
 
 ![Screenshot 2024-11-13 at 22 00 51](https://github.com/user-attachments/assets/4c32c777-8071-4771-85dd-2c48df4cd349)
 
@@ -73,7 +73,7 @@ and click on Installer Images.</b></p>
 
 ![Screenshot 2024-11-13 at 22 02 26](https://github.com/user-attachments/assets/1f7c72eb-8446-4105-b341-22149efcf3ab)
 
-<p align="center"> <b> Select Graphic Install</b></p>
+<p align="center"> <b> Select Graphic Install:</b></p>
 
 ![Screenshot 2024-11-15 at 15 24 32](https://github.com/user-attachments/assets/d16cb66c-3f06-4f5f-9fe1-496d97cd4778)
 
@@ -81,30 +81,30 @@ and click on Installer Images.</b></p>
 
 ![Screenshot 2024-11-15 at 15 28 24](https://github.com/user-attachments/assets/64ccabfb-9c68-4a4b-81e1-21cf872e4a8f)
 
-<p align="center"> <b> Then I was asked to enter a domain name, you can leave that blank and hit Continue once again. Then I was taken to a new screen in which I will be setting up my username and password, you can name these whatever you like just make sure to remember them.</b></p>
+<p align="center"> <b> Then I was asked to enter a domain name, I left that blank and hit Continue once again. Then I was taken to a new screen in which I will be setting up my username and password, you can name these whatever you like just make sure to remember them.</b></p>
 
 <p align="center"> <b> Then on this screen, I will select Guided - use entire disk and hit Continue.</b></p>
 
 ![Screenshot 2024-11-15 at 15 32 42](https://github.com/user-attachments/assets/1025f7a7-e766-46e6-b147-cfb31b824a2e)
 
-<p align="center"> <b> Here I selected All files in one partition then hit Continue again </b></p>
+<p align="center"> <b> Here I selected All files in one partition then hit Continue again. </b></p>
 
 ![Screenshot 2024-11-15 at 15 33 51](https://github.com/user-attachments/assets/2cef214f-5133-4649-8884-e84bec235dea)
 
 
-<p align="center"> <b> Then select Finish partitioning and write changes to disk and click Continue</b></p>
+<p align="center"> <b> Then select Finish partitioning and write changes to disk and click Continue.</b></p>
 
 ![Screenshot 2024-11-15 at 15 34 56](https://github.com/user-attachments/assets/91ba704b-bf25-498f-a267-ad789d326a18)
 
-<p align="center"> <b> This is where I selected Yes then Continue once again.</b></p>
+<p align="center"> <b> Here I selected Yes then Continue once again.</b></p>
 
 ![Screenshot 2024-11-15 at 15 36 38](https://github.com/user-attachments/assets/4e7b4da2-c565-45ee-877d-7079ea4e4f05)
 
-<p align="center"> <b> Then select whatever software you would like to download and hit Continue. </b></p>
+<p align="center"> <b> Then Kali will ask if there is any additional software I want to install, I left it as the default one. </b></p>
 
 ![Screenshot 2024-11-15 at 15 39 48](https://github.com/user-attachments/assets/44b5cf7b-9d16-4fd9-b721-1e1d85c1b4fd)
 
-<p align="center"> <b> Once the install has finished it took me to this page, select Yes then Continue</b></p>
+<p align="center"> <b> Once the install has finished it took me to this page, select Yes then Continue.</b></p>
 
 ![Screenshot 2024-11-15 at 16 14 14](https://github.com/user-attachments/assets/cc1486b2-2ae9-434d-8ff5-1870a34eec76)
 
@@ -114,7 +114,7 @@ and click on Installer Images.</b></p>
 ![Screenshot 2024-11-15 at 16 16 29](https://github.com/user-attachments/assets/a4e0e294-f973-4d4a-ac56-24963cbacec5)
 
 
-<p align="center"> <b> Now that the installation is complete I can now log in using the username and password we set earlier</b></p>
+<p align="center"> <b> Now that the installation is complete I can now log in using the username and password I set earlier.</b></p>
 
 ![Screenshot 2024-11-16 at 14 12 02](https://github.com/user-attachments/assets/097f7183-5767-46e9-8604-6ebfdb7b119b)
 
@@ -178,7 +178,7 @@ Elastic Cloud
 
 ![Screenshot 2024-11-17 at 12 55 13](https://github.com/user-attachments/assets/072c0173-4cee-4f4c-a765-e7d728bbbc5e)
 
-<p align="center"> <b> What I am going to do next is create a dashboard to visualise the events. I will first head over to the hamburger icon on the top left on the page and click on it like I done a few steps ago and underneath the Analytics section click on Dashboards</b></p>
+<p align="center"> <b> What I am going to do next is create a dashboard to visualise the events. I will first head over to the hamburger icon on the top left on the page and click on it like I done a few steps ago and underneath the Analytics section click on Dashboards.</b></p>
 
 ![Screenshot 2024-11-17 at 13 27 35](https://github.com/user-attachments/assets/3bc051c0-58a9-48b2-902b-c38145658435)
 
@@ -188,7 +188,7 @@ Elastic Cloud
 ![Screenshot 2024-11-17 at 13 30 42](https://github.com/user-attachments/assets/e83a4376-bc66-47a3-a4df-4c78ec74dec1)
 
 
-<p align="center"> <b> On this dropbox I selected Area</b></p>
+<p align="center"> <b> On this dropbox I selected Area.</b></p>
 
 ![Screenshot 2024-11-17 at 13 34 46](https://github.com/user-attachments/assets/1f610f55-bfdf-454e-a1bc-a82e2714601c)
 
@@ -229,7 +229,7 @@ Then I set the severity level for the alert, which can help me prioritise alerts
 
 ![Screenshot 2024-11-17 at 13 55 34](https://github.com/user-attachments/assets/6487faae-9380-4e42-a774-c8fa599143dd)
 
-<p align="center"> <b> Then I clicked on Create & enable rule, now I went back to my kali vm and done a Nmap scan</b></p>
+<p align="center"> <b> Then I clicked on Create & enable rule, now I went back to my Kali vm and done a Nmap scan.</b></p>
 
 ![Screenshot 2024-11-17 at 14 05 49](https://github.com/user-attachments/assets/a8007afe-ce32-4552-84b0-c4d2b3cdd8bc)
 
@@ -238,7 +238,7 @@ Then I set the severity level for the alert, which can help me prioritise alerts
 
 ![Screenshot 2024-11-17 at 14 06 34](https://github.com/user-attachments/assets/8ffd0a48-e90c-4207-ac02-e95d595a5edb)
 
-
+<p align="center"><b>And this is how we can set up a simple SIEM lab using Elastic Cloud and Kali Linux, and create alerts for specific commands and have an alert be sent out to your email address.</b></p>
 
 
 <h1 align="center">
