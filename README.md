@@ -2,7 +2,7 @@
 
 ## Description
 
-The purpose of this project is to gain hands-on experience with Elastic Cloud, which is used to Detect and respond to threats by unifying SIEM, cloud security, and endpoint security, and learn how to remediate vulnerabilities. 
+The purpose of this project is to gain hands-on experience with Elastic Cloud, which is used to detect and respond to threats by unifying SIEM, cloud security, and endpoint security, and learn how to remediate vulnerabilities. 
 
 The project focuses on two crucial steps in the Vulnerability Management Lifecycle. By using Elastic Cloud, I will use Linux to connect to Elastic Cloud locally and run some scans on Linux like Nmap, then creating a dashboard on Elastic Cloud which will allow me to see what scans were done on Linux. I will then create an alert for a specific scan, so for example the alert will be whenever Nmap is run, then it will send an alert to the admin via email.
 
