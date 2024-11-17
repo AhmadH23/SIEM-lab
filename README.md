@@ -246,10 +246,8 @@ Conclusion
 </h1>
 
 
-<p align = "center"><b>  In this project, I have set up a home lab using Elastic SIEM and a Kali VM. I forwarded data from the Kali VM to the SIEM using the Elastic Cloud agent, generated security events on the Kali VM using Nmap, and queried and analysed the logs in the SIEM using the Elastic web interface. I also created a dashboard to visualise security events and then created an alert to detect security events.
+<p align = "center"><b>  In this project, I have set up a home lab using Elastic SIEM and a Kali VM. I forwarded data from the Kali VM to the SIEM using the Elastic Cloud agent, generated security events on the Kali VM using Nmap, and queried and analysed the logs in the SIEM using the Elastic web interface. I also created a dashboard to visualise security events and then created an alert to detect security events. </b></p>
 
-This home lab provides a valuable environment for learning and practicing the skills necessary for effective security monitoring and incident response using Elastic SIEM. By following these steps, you too can gain hands-on experience with using a SIEM and improve your security monitoring skills to help you become a successful security analyst or engineer.
-
-</b></p>
+<p align = "center"><b> This home lab provides a valuable environment for learning and practicing the skills necessary for effective security monitoring and incident response using Elastic SIEM. By following these steps, you too can gain hands-on experience with using a SIEM and improve your security monitoring skills to help you become a successful security analyst or engineer. </b></p>
 
 
