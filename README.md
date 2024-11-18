@@ -169,7 +169,8 @@ Elastic Cloud
 
 <p align="center"> <b> On the top left side of the screen I clicked on the hamburger icon then selected Logs underneath observability.</b></p>
 
-![Screenshot 2024-11-17 at 12 44 57](https://github.com/user-attachments/assets/29581658-ba6a-4756-ba01-447904f734f2)
+![Screenshot 2024-11-17 at 12 44 24](https://github.com/user-attachments/assets/cf35c870-7977-4503-b62e-ace5c6fd31af)
+
 
 
 ![Screenshot 2024-11-17 at 12 45 06](https://github.com/user-attachments/assets/99ae7f94-036a-4cfd-a240-fe13e70267a9)
